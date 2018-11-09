@@ -2,6 +2,9 @@ The Rainbow and the Unicorn
 purple
 Unicorn
 Blue
+Indigo
+White
+Black
 Red
 Unicorn
 Green
